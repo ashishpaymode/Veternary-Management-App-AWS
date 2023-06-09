@@ -1,0 +1,6 @@
+created ec2 instance
+rdb mydql database
+using putty created files 
+dbinfo.inc and samplepage.php
+connect mysql credential
+create same data files here as dont know how to download from server
